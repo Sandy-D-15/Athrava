@@ -1,0 +1,9 @@
+{
+  "name": "skyline-flight-booking",
+  "version": "1.0.0",
+  "description": "Flight booking front end with a simulated API gateway and database",
+  "scripts": {
+    "start": "npx --yes serve . -l 5500"
+  },
+  "license": "MIT"
+}
